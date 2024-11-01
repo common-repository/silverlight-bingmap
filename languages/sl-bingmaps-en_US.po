@@ -1,0 +1,192 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: sl-bingmaps\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-04-29 14:05+0100\n"
+"PO-Revision-Date: 2010-04-29 14:06+0100\n"
+"Last-Translator: Alain Diart - CNSX <alain@cnsx.net>\n"
+"Language-Team: Regart.net <gmonnier@regart.net>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e;gettext_noop\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-Country: UNITED STATES\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-SearchPath-0: /Users/alain/Documents/workspace/Les-Sushi-Codeurs/php/10-regartnet.bingmaps.wp/wp-content/plugins/sl-bingmaps\n"
+
+#: /Users/alain/Documents/workspace/Les-Sushi-Codeurs/php/10-regartnet.bingmaps.wp/wp-content/plugins/sl-bingmaps/locales.php:11
+msgid "Affichage de la Navigation"
+msgstr "Show Navigation"
+
+#: /Users/alain/Documents/workspace/Les-Sushi-Codeurs/php/10-regartnet.bingmaps.wp/wp-content/plugins/sl-bingmaps/locales.php:12
+msgid "Barre de navigation visible ou invisible"
+msgstr "Specifies if the navigation bar is visible or hidden"
+
+#: /Users/alain/Documents/workspace/Les-Sushi-Codeurs/php/10-regartnet.bingmaps.wp/wp-content/plugins/sl-bingmaps/locales.php:13
+msgid "Affichage du Copyright"
+msgstr "Show Copyright"
+
+#: /Users/alain/Documents/workspace/Les-Sushi-Codeurs/php/10-regartnet.bingmaps.wp/wp-content/plugins/sl-bingmaps/locales.php:14
+msgid "Copyright visible ou invisible"
+msgstr "Specifies if the copyright is visible or hidden"
+
+#: /Users/alain/Documents/workspace/Les-Sushi-Codeurs/php/10-regartnet.bingmaps.wp/wp-content/plugins/sl-bingmaps/locales.php:15
+msgid "Affichage du Logo"
+msgstr "Show Logo"
+
+#: /Users/alain/Documents/workspace/Les-Sushi-Codeurs/php/10-regartnet.bingmaps.wp/wp-content/plugins/sl-bingmaps/locales.php:16
+msgid "Logo visible ou invisible"
+msgstr "Specifies if the logo is visible or hidden"
+
+#: /Users/alain/Documents/workspace/Les-Sushi-Codeurs/php/10-regartnet.bingmaps.wp/wp-content/plugins/sl-bingmaps/locales.php:17
+msgid "Affichage de l'échelle"
+msgstr "Show scale"
+
+#: /Users/alain/Documents/workspace/Les-Sushi-Codeurs/php/10-regartnet.bingmaps.wp/wp-content/plugins/sl-bingmaps/locales.php:18
+msgid "Echelle visible ou invisible"
+msgstr "Specifies if the scale is visible or hidden"
+
+#: /Users/alain/Documents/workspace/Les-Sushi-Codeurs/php/10-regartnet.bingmaps.wp/wp-content/plugins/sl-bingmaps/locales.php:19
+msgid "Zoom"
+msgstr "Zoom"
+
+#: /Users/alain/Documents/workspace/Les-Sushi-Codeurs/php/10-regartnet.bingmaps.wp/wp-content/plugins/sl-bingmaps/locales.php:20
+msgid "Nivau de zoom"
+msgstr "Zoom level"
+
+#: /Users/alain/Documents/workspace/Les-Sushi-Codeurs/php/10-regartnet.bingmaps.wp/wp-content/plugins/sl-bingmaps/locales.php:21
+msgid "Mode"
+msgstr "Mode"
+
+#: /Users/alain/Documents/workspace/Les-Sushi-Codeurs/php/10-regartnet.bingmaps.wp/wp-content/plugins/sl-bingmaps/locales.php:22
+msgid "Choix entre Aerial, Road, AerialWithLabels"
+msgstr "Choice between Aerial, Road, AerialWithLabels"
+
+#: /Users/alain/Documents/workspace/Les-Sushi-Codeurs/php/10-regartnet.bingmaps.wp/wp-content/plugins/sl-bingmaps/locales.php:23
+msgid "Point de départ"
+msgstr "Start location"
+
+#: /Users/alain/Documents/workspace/Les-Sushi-Codeurs/php/10-regartnet.bingmaps.wp/wp-content/plugins/sl-bingmaps/locales.php:24
+msgid "Par défaut à 0 en latitude et 0 en longitude (lat_long). Ce sont des valeurs décimales."
+msgstr "By default 0 as latitude and longitude (lat_long). These values are decimal."
+
+#: /Users/alain/Documents/workspace/Les-Sushi-Codeurs/php/10-regartnet.bingmaps.wp/wp-content/plugins/sl-bingmaps/locales.php:25
+msgid "Pushpin"
+msgstr "Pushpin"
+
+#: /Users/alain/Documents/workspace/Les-Sushi-Codeurs/php/10-regartnet.bingmaps.wp/wp-content/plugins/sl-bingmaps/locales.php:26
+msgid "Le point d'intérêt principal, même principe que Point de départ."
+msgstr "The place where the pushpin will be shown. Works the same as start location."
+
+#: /Users/alain/Documents/workspace/Les-Sushi-Codeurs/php/10-regartnet.bingmaps.wp/wp-content/plugins/sl-bingmaps/locales.php:27
+msgid "Culture"
+msgstr "Culture"
+
+#: /Users/alain/Documents/workspace/Les-Sushi-Codeurs/php/10-regartnet.bingmaps.wp/wp-content/plugins/sl-bingmaps/locales.php:28
+msgid "Si rien n'est renseigné c'est la culture du système. Cela se voit par exemple entre miles et kilometres en bas à droite."
+msgstr "If nothing is specified, the system's culture is taken. Change for example kilometer to miles."
+
+#: /Users/alain/Documents/workspace/Les-Sushi-Codeurs/php/10-regartnet.bingmaps.wp/wp-content/plugins/sl-bingmaps/sl-bingmaps.php:31
+msgid "Silverlight Bing Maps"
+msgstr "Silverlight Bing Maps"
+
+#: /Users/alain/Documents/workspace/Les-Sushi-Codeurs/php/10-regartnet.bingmaps.wp/wp-content/plugins/sl-bingmaps/sl-bingmaps.php:39
+msgid "Vous devrez obtenir un clé d'activation Bing Maps avant de pouvoir utiliser le plugin sl-bingmaps."
+msgstr "You have to obtain an activation key before you can use the sl-bingmaps plugin."
+
+#: /Users/alain/Documents/workspace/Les-Sushi-Codeurs/php/10-regartnet.bingmaps.wp/wp-content/plugins/sl-bingmaps/sl-bingmaps.php:57
+#: /Users/alain/Documents/workspace/Les-Sushi-Codeurs/php/10-regartnet.bingmaps.wp/wp-content/plugins/sl-bingmaps/admin/post-iframe.php:92
+msgid "Insérer Silverlight Bing Maps"
+msgstr "Insert Bing Maps Silverlight"
+
+#: /Users/alain/Documents/workspace/Les-Sushi-Codeurs/php/10-regartnet.bingmaps.wp/wp-content/plugins/sl-bingmaps/admin/plugin-options-form.php:16
+msgid "Options du plugin Silverlight Bing Maps"
+msgstr "Options for the Silverlight Bing Maps plugin"
+
+#: /Users/alain/Documents/workspace/Les-Sushi-Codeurs/php/10-regartnet.bingmaps.wp/wp-content/plugins/sl-bingmaps/admin/plugin-options-form.php:18
+msgid "Cette page vous permet de configurer les options de votre plugin."
+msgstr "You can configure your plugin's options on this page"
+
+#: /Users/alain/Documents/workspace/Les-Sushi-Codeurs/php/10-regartnet.bingmaps.wp/wp-content/plugins/sl-bingmaps/admin/plugin-options-form.php:25
+msgid "Clé d'activation Bing Maps"
+msgstr "Bing Maps activation key"
+
+#: /Users/alain/Documents/workspace/Les-Sushi-Codeurs/php/10-regartnet.bingmaps.wp/wp-content/plugins/sl-bingmaps/admin/plugin-options-form.php:26
+msgid "Paramètre le plugin avec votre clé Bing Maps"
+msgstr "Set your plugin with your Bing Map Key"
+
+#: /Users/alain/Documents/workspace/Les-Sushi-Codeurs/php/10-regartnet.bingmaps.wp/wp-content/plugins/sl-bingmaps/admin/plugin-options-form.php:31
+msgid "Clé Bing Maps"
+msgstr "Bing Maps Key"
+
+#: /Users/alain/Documents/workspace/Les-Sushi-Codeurs/php/10-regartnet.bingmaps.wp/wp-content/plugins/sl-bingmaps/admin/plugin-options-form.php:34
+#, php-format
+msgid "Vous devez obtenir une clé d'activation auprès de Bing Maps avant de pouvoir utiliser ce plugin. Pour obtenir votre clé, <a href=\"%1$s\" target=\"_blank\">suivez ce lien</a>."
+msgstr "You have to obtain an activation key before you can use the sl-bingmaps plugin. To obtain your key, <a href=\"%1$s\" target=\"_blank\">follow this link</a>."
+
+#: /Users/alain/Documents/workspace/Les-Sushi-Codeurs/php/10-regartnet.bingmaps.wp/wp-content/plugins/sl-bingmaps/admin/plugin-options-form.php:41
+#: /Users/alain/Documents/workspace/Les-Sushi-Codeurs/php/10-regartnet.bingmaps.wp/wp-content/plugins/sl-bingmaps/admin/post-iframe.php:96
+msgid "Paramètres du composant Silverlight"
+msgstr "Silverlight component parameters"
+
+#: /Users/alain/Documents/workspace/Les-Sushi-Codeurs/php/10-regartnet.bingmaps.wp/wp-content/plugins/sl-bingmaps/admin/plugin-options-form.php:42
+msgid "Paramètre le composant Silverlight"
+msgstr "Parameters the Silverlight component"
+
+#: /Users/alain/Documents/workspace/Les-Sushi-Codeurs/php/10-regartnet.bingmaps.wp/wp-content/plugins/sl-bingmaps/admin/plugin-options-form.php:47
+#: /Users/alain/Documents/workspace/Les-Sushi-Codeurs/php/10-regartnet.bingmaps.wp/wp-content/plugins/sl-bingmaps/admin/post-iframe.php:101
+msgid "Couleur d'arrière plan"
+msgstr "Background color"
+
+#: /Users/alain/Documents/workspace/Les-Sushi-Codeurs/php/10-regartnet.bingmaps.wp/wp-content/plugins/sl-bingmaps/admin/plugin-options-form.php:50
+msgid "Paramètre la couleur de fond par défaut du composant Silverlight."
+msgstr "Parameters the default background color for the Silverlight component."
+
+#: /Users/alain/Documents/workspace/Les-Sushi-Codeurs/php/10-regartnet.bingmaps.wp/wp-content/plugins/sl-bingmaps/admin/plugin-options-form.php:55
+#: /Users/alain/Documents/workspace/Les-Sushi-Codeurs/php/10-regartnet.bingmaps.wp/wp-content/plugins/sl-bingmaps/admin/post-iframe.php:109
+msgid "Largeur"
+msgstr "Width"
+
+#: /Users/alain/Documents/workspace/Les-Sushi-Codeurs/php/10-regartnet.bingmaps.wp/wp-content/plugins/sl-bingmaps/admin/plugin-options-form.php:58
+msgid "Paramètre la largeur par défaut du composant Silverlight."
+msgstr "Parameters the default width for the Silverlight component."
+
+#: /Users/alain/Documents/workspace/Les-Sushi-Codeurs/php/10-regartnet.bingmaps.wp/wp-content/plugins/sl-bingmaps/admin/plugin-options-form.php:63
+#: /Users/alain/Documents/workspace/Les-Sushi-Codeurs/php/10-regartnet.bingmaps.wp/wp-content/plugins/sl-bingmaps/admin/post-iframe.php:117
+msgid "Hauteur"
+msgstr "Height"
+
+#: /Users/alain/Documents/workspace/Les-Sushi-Codeurs/php/10-regartnet.bingmaps.wp/wp-content/plugins/sl-bingmaps/admin/plugin-options-form.php:66
+msgid "Paramètre la hauteur par défaut du composant Silverlight."
+msgstr "Parameters the default height for the Silverlight component."
+
+#: /Users/alain/Documents/workspace/Les-Sushi-Codeurs/php/10-regartnet.bingmaps.wp/wp-content/plugins/sl-bingmaps/admin/plugin-options-form.php:73
+msgid "Valeurs par défaut"
+msgstr "Default values"
+
+#: /Users/alain/Documents/workspace/Les-Sushi-Codeurs/php/10-regartnet.bingmaps.wp/wp-content/plugins/sl-bingmaps/admin/plugin-options-form.php:74
+msgid "Paramètre les valeurs par défaut pour vos cartes Bing Maps"
+msgstr "Parameters the default values for your Bing Maps maps"
+
+#: /Users/alain/Documents/workspace/Les-Sushi-Codeurs/php/10-regartnet.bingmaps.wp/wp-content/plugins/sl-bingmaps/admin/post-iframe.php:104
+msgid "Paramètre la couleur de fond du composant Silverlight."
+msgstr "Parameters the background color for the Silverlight component."
+
+#: /Users/alain/Documents/workspace/Les-Sushi-Codeurs/php/10-regartnet.bingmaps.wp/wp-content/plugins/sl-bingmaps/admin/post-iframe.php:112
+msgid "Paramètre la largeur du composant Silverlight."
+msgstr "Parameters the width for the Silverlight component."
+
+#: /Users/alain/Documents/workspace/Les-Sushi-Codeurs/php/10-regartnet.bingmaps.wp/wp-content/plugins/sl-bingmaps/admin/post-iframe.php:120
+msgid "Paramètre la hauteur du composant Silverlight."
+msgstr "Parameters the height for the Silverlight component."
+
+#: /Users/alain/Documents/workspace/Les-Sushi-Codeurs/php/10-regartnet.bingmaps.wp/wp-content/plugins/sl-bingmaps/admin/post-iframe.php:129
+msgid "Valeurs de départ"
+msgstr "Start values"
+
+#: /Users/alain/Documents/workspace/Les-Sushi-Codeurs/php/10-regartnet.bingmaps.wp/wp-content/plugins/sl-bingmaps/admin/post-iframe.php:140
+msgid "Enregistrer toutes les modifications"
+msgstr "Save your modifications"
+

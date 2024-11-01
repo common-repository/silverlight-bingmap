@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sl-bingmaps>
+  <!--
+    /*
+     * Silverlight Bing Maps
+     * Configuration des variables du plugin
+     *
+     * @package    sl-bingmaps
+     * @subpackage wordpress plugin
+     * @version    SVN: $Id: $
+     *
+     */
+  -->
+  <var 
+    name="NavigationVisibility"
+    control="checkbox"
+    default="1"
+    label="Affichage de la Navigation"
+    description="Barre de navigation visible ou invisible" />
+  <var 
+    name="CopyrightVisibility"
+    control="checkbox"
+    default="1"
+    label="Affichage du Copyright"
+    description="Copyright visible ou invisible" />
+  <var 
+    name="LogoVisibility"
+    control="checkbox"
+    default="1"
+    label="Affichage du Logo"
+    description="Logo visible ou invisible" />
+  <var 
+    name="ScaleVisibility"
+    control="checkbox"
+    default="1"
+    label="Affichage de l'échelle"
+    description="Echelle visible ou invisible" />
+  <var 
+    name="ZoomLevel"
+    control="inputtext"
+    default="2"
+    label="Zoom"
+    description="Nivau de zoom" />
+  <var 
+    name="Mode"
+    control="select"
+    options="Aerial,Road,AerialWithLabels"
+    default="Aerial"
+    label="Mode"
+    description="Choix entre Aerial, Road, AerialWithLabels" />
+  <var 
+    name="StartLocation"
+    control="inputtext"
+    default="0_0"
+    label="Point de départ"
+    description="Par défaut à 0 en latitude et 0 en longitude (lat_long). Ce sont des valeurs décimales." />
+  <var 
+    name="Pushpin"
+    control="inputtext"
+    default="0_0"
+    label="Pushpin"
+    description="Le point d'intérêt principal, même principe que Point de départ." />
+  <var 
+    name="Culture"
+    control="inputtext"
+    default="fr_FR"
+    label="Culture"
+    description="Si rien n'est renseigné c'est la culture du système. Cela se voit par exemple entre miles et kilometres en bas à droite." />
+</sl-bingmaps>
